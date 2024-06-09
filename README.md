@@ -4,6 +4,14 @@ Here repo which have all content regarding the docker
 ## What is docker ?
 #### Docker is platform that helps developers to build,share and run applications with docker container.
 
+## Installation of Docker
+#### Step 1: Download Docker. Download the free Docker software from the official Docker website. <br/>
+Step 2: Install Docker. Click on the installation package to start the installation. <br/>
+Step 3: Install WSL2.<br/>
+Step 4: Launch and test Docker Desktop. <br/>
+Step 5: Use Docker. <br/>
+Note : Many times WSl make problems so check it properly.
+
 ## Problems before docker ?
 #### Updation problem <br/> Enviornment problem <br/> (When developer developed software in 2 year then he want to make it live then in case technology is on updation)
 
