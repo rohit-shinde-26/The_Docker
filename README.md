@@ -20,3 +20,15 @@ Note : Many times WSl make problems so check it properly.
 
 ## Why need to learn docker ?
 #### 1. This is important skill for developer. <br/> 2. Required skill for developer. <br/> 3. Developer has to deploy project so they need to learn it. <br/> 4. It can help you to get good job. <br/> 5. It can helps to improve productivity.
+
+## Images and containers
+1. Images : are templates of project. (Tool,library,code)
+2. Container : Running instance of image <br/>
+
+
+## Docker Images 
+- It is kind of ready to use software read only template
+- Images is made with source codes, libraries, external dependencies and tools.
+- Images cannot be updated
+- if you want to make change in image you have to create new image
+- images cannot run directly
