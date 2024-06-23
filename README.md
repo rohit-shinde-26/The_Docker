@@ -54,3 +54,8 @@ Container is isolated process (Independent) Means it run independently on comput
 1. Docker hub is browser opener
 2. Docker desktop is present on desktop
 3. Mostly docker desktop provides more funtionality as compare to docker hub.
+
+
+Base Image / Parent Image
+## How to make image 
+#### Docker File =BUILD=> Docker Image =RUN=> Docker Container
